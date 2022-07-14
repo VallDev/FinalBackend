@@ -1,0 +1,382 @@
+[2022-04-23 08:12:08] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 08:12:14] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 08:12:15] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 08:12:15] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 08:12:15] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 08:12:16] [ ERROR] [OdontologoService:31] Error en busqueda de odontologo
+[2022-04-23 08:12:16] [ INFO ] [PacienteService:30] Consulta total de pacientes
+[2022-04-23 08:12:59] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 08:13:49] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 08:13:49] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 08:13:59] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 08:13:59] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 08:25:39] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 08:27:08] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 08:27:08] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 08:28:48] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 08:28:48] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 08:28:59] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 08:28:59] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 08:29:06] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 08:29:06] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 08:30:27] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 08:30:27] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 08:33:18] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 08:34:19] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 08:34:42] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 08:34:42] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 08:40:05] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 08:40:26] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 08:40:26] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 08:41:19] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 08:41:19] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 08:41:36] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 08:41:36] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 08:41:53] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 08:41:53] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 08:41:59] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 08:41:59] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 09:00:05] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 09:00:27] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:00:27] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:02:10] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 09:02:20] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:02:20] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:02:34] [ INFO ] [DomicilioController:36] Consulta endpoint registrar domicilios
+[2022-04-23 09:02:34] [ ERROR] [DomicilioService:54] Error en registro de domicilio
+[2022-04-23 09:02:42] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:02:42] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:04:33] [ INFO ] [DomicilioController:36] Consulta endpoint registrar domicilios
+[2022-04-23 09:04:33] [ INFO ] [DomicilioService:50] Domicilio registrado exitosamente
+[2022-04-23 09:04:41] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:04:41] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:04:43] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:04:43] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:04:52] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:04:52] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:10:43] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:10:43] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:13:27] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 09:13:40] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:13:40] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:14:10] [ INFO ] [DomicilioController:36] Consulta endpoint registrar domicilios
+[2022-04-23 09:14:10] [ INFO ] [DomicilioService:50] Domicilio registrado exitosamente
+[2022-04-23 09:14:14] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:14:14] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:14:17] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:14:17] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:14:19] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:14:19] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:14:29] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:14:29] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:14:37] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:14:37] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:18:09] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 09:18:34] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:18:34] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:18:40] [ INFO ] [DomicilioController:36] Consulta endpoint registrar domicilios
+[2022-04-23 09:18:40] [ INFO ] [DomicilioService:50] Domicilio registrado exitosamente
+[2022-04-23 09:18:46] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:18:46] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:18:54] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:18:54] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:18:58] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:18:58] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:18:59] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:18:59] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:24:03] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 09:24:17] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:24:17] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:24:30] [ INFO ] [DomicilioController:36] Consulta endpoint registrar domicilios
+[2022-04-23 09:24:30] [ INFO ] [DomicilioService:50] Domicilio registrado exitosamente
+[2022-04-23 09:24:34] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:24:34] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:53:11] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 09:54:30] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 09:54:30] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 09:55:07] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 09:55:07] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 09:57:28] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 09:57:28] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 09:57:51] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 09:57:51] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 09:59:00] [ INFO ] [PacienteController:30] Consulta endpoint listar pacientes
+[2022-04-23 09:59:00] [ INFO ] [PacienteService:30] Consulta total de pacientes
+[2022-04-23 09:59:14] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 09:59:14] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 09:59:22] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 09:59:22] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 09:59:59] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 09:59:59] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 09:59:59] [ INFO ] [PacienteService:63] Busqueda exitosa de paciente
+[2022-04-23 09:59:59] [ INFO ] [TurnoService:50] Turno registrado exitosamente
+[2022-04-23 10:00:04] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 10:00:04] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 10:00:31] [ INFO ] [PacienteController:30] Consulta endpoint listar pacientes
+[2022-04-23 10:00:31] [ INFO ] [PacienteService:30] Consulta total de pacientes
+[2022-04-23 10:11:01] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 10:11:36] [ INFO ] [PacienteController:30] Consulta endpoint listar pacientes
+[2022-04-23 10:11:36] [ INFO ] [PacienteService:30] Consulta total de pacientes
+[2022-04-23 10:12:26] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 10:12:26] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 10:12:30] [ INFO ] [PacienteController:30] Consulta endpoint listar pacientes
+[2022-04-23 10:12:30] [ INFO ] [PacienteService:30] Consulta total de pacientes
+[2022-04-23 10:13:10] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 10:13:10] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 10:13:42] [ INFO ] [PacienteController:30] Consulta endpoint listar pacientes
+[2022-04-23 10:13:42] [ INFO ] [PacienteService:30] Consulta total de pacientes
+[2022-04-23 10:14:07] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 10:14:07] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 10:14:07] [ INFO ] [PacienteService:63] Busqueda exitosa de paciente
+[2022-04-23 10:14:07] [ INFO ] [TurnoService:50] Turno registrado exitosamente
+[2022-04-23 10:14:22] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 10:14:22] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 10:14:30] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 10:14:30] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 10:15:04] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 10:15:04] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 10:15:25] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 10:15:25] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 10:22:46] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 10:23:28] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 10:23:28] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 10:24:20] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 10:24:20] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 10:24:32] [ INFO ] [PacienteController:30] Consulta endpoint listar pacientes
+[2022-04-23 10:24:32] [ INFO ] [PacienteService:30] Consulta total de pacientes
+[2022-04-23 10:24:52] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 10:24:52] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 10:25:25] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 10:25:44] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 10:25:49] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 10:25:49] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 10:27:56] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 10:28:26] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 10:28:26] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 10:28:47] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 10:28:47] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 10:29:14] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 10:30:46] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 10:31:07] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 10:31:07] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 10:31:28] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 10:31:28] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 10:31:37] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 10:31:37] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 10:32:06] [ INFO ] [PacienteController:30] Consulta endpoint listar pacientes
+[2022-04-23 10:32:06] [ INFO ] [PacienteService:30] Consulta total de pacientes
+[2022-04-23 10:35:47] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 10:36:12] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 10:36:12] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 10:36:27] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 10:36:27] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 10:36:43] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 10:36:43] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 10:36:43] [ INFO ] [PacienteService:63] Busqueda exitosa de paciente
+[2022-04-23 10:36:43] [ INFO ] [TurnoService:50] Turno registrado exitosamente
+[2022-04-23 10:37:02] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 10:37:02] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 10:37:57] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 10:38:11] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 10:38:11] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 10:38:22] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 10:38:22] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 10:38:30] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 10:38:30] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 10:38:30] [ INFO ] [PacienteService:63] Busqueda exitosa de paciente
+[2022-04-23 10:38:30] [ INFO ] [TurnoService:50] Turno registrado exitosamente
+[2022-04-23 10:38:47] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 10:38:47] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 10:38:52] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 10:38:52] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 10:39:02] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 10:39:02] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 10:40:45] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 10:40:56] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 10:40:56] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 10:40:59] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 10:40:59] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 10:41:07] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 10:41:07] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 10:41:07] [ INFO ] [PacienteService:63] Busqueda exitosa de paciente
+[2022-04-23 10:41:07] [ INFO ] [TurnoService:50] Turno registrado exitosamente
+[2022-04-23 10:41:19] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 10:41:19] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 10:42:14] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 10:43:19] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 10:43:19] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 10:43:23] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 10:43:23] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 10:43:33] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 10:43:33] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 10:49:44] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 10:49:56] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 10:49:56] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 10:50:01] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 10:50:01] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 10:50:12] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 10:50:12] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 10:50:51] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 10:51:04] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 10:51:04] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 10:51:07] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 10:51:07] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 10:51:15] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 10:51:15] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 10:51:15] [ INFO ] [PacienteService:63] Busqueda exitosa de paciente
+[2022-04-23 10:51:15] [ INFO ] [TurnoService:50] Turno registrado exitosamente
+[2022-04-23 10:51:22] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 10:51:22] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 10:59:50] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 11:00:02] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 11:00:02] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 11:00:11] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 11:00:11] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 11:00:17] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 11:00:17] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 11:00:17] [ INFO ] [PacienteService:63] Busqueda exitosa de paciente
+[2022-04-23 11:00:17] [ INFO ] [TurnoService:50] Turno registrado exitosamente
+[2022-04-23 11:00:21] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 11:00:21] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 11:00:45] [ INFO ] [PacienteController:30] Consulta endpoint listar pacientes
+[2022-04-23 11:00:45] [ INFO ] [PacienteService:30] Consulta total de pacientes
+[2022-04-23 11:00:56] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 11:00:56] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 11:00:56] [ INFO ] [PacienteService:63] Busqueda exitosa de paciente
+[2022-04-23 11:00:56] [ INFO ] [TurnoService:50] Turno registrado exitosamente
+[2022-04-23 11:01:00] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 11:01:00] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 11:03:20] [ INFO ] [PacienteController:30] Consulta endpoint listar pacientes
+[2022-04-23 11:03:20] [ INFO ] [PacienteService:30] Consulta total de pacientes
+[2022-04-23 11:04:30] [ INFO ] [TurnoController:16] Se ingreso al sistema a traves del login
+[2022-04-23 11:05:16] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 11:05:29] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 11:05:29] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 11:05:34] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 11:05:34] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 11:05:45] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 11:05:45] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 11:05:45] [ INFO ] [PacienteService:63] Busqueda exitosa de paciente
+[2022-04-23 11:05:45] [ INFO ] [TurnoService:50] Turno registrado exitosamente
+[2022-04-23 11:05:53] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 11:05:53] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 11:13:23] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 11:13:40] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 11:13:40] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 11:13:43] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 11:13:43] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 11:13:47] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 11:13:47] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 11:14:03] [ INFO ] [PacienteController:30] Consulta endpoint listar pacientes
+[2022-04-23 11:14:03] [ INFO ] [PacienteService:30] Consulta total de pacientes
+[2022-04-23 11:19:11] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 11:19:25] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 11:19:25] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 11:19:29] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 11:19:29] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 11:19:33] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 11:19:33] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 11:20:40] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 11:20:47] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 11:20:47] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 11:20:51] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 11:20:51] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 11:20:58] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 11:20:58] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 11:20:58] [ INFO ] [PacienteService:63] Busqueda exitosa de paciente
+[2022-04-23 11:20:58] [ INFO ] [TurnoService:50] Turno registrado exitosamente
+[2022-04-23 11:21:18] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 11:21:18] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 11:36:48] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 11:36:57] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 11:36:57] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 11:37:01] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 11:37:01] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 11:37:12] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 11:37:12] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 11:37:12] [ INFO ] [PacienteService:63] Busqueda exitosa de paciente
+[2022-04-23 11:37:12] [ INFO ] [TurnoService:50] Turno registrado exitosamente
+[2022-04-23 11:37:18] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 11:37:18] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 11:40:37] [ INFO ] [SecurityConfiguration:41] Ingreso de permisos y roles al sistema
+[2022-04-23 11:40:48] [ INFO ] [PacienteController:36] Consulta endpoint registrar pacientes
+[2022-04-23 11:40:48] [ INFO ] [PacienteService:37] Registro exitoso de paciente
+[2022-04-23 11:40:52] [ INFO ] [OdontologoController:34] Consulta enpoint registrar odontologos
+[2022-04-23 11:40:52] [ INFO ] [OdontologoService:45] Odontologo registrado exitosamente
+[2022-04-23 11:40:56] [ INFO ] [TurnoController:37] Consulta endpoint registar turnos
+[2022-04-23 11:40:56] [ INFO ] [OdontologoService:27] Odontologo encontrado exitosamente
+[2022-04-23 11:40:56] [ INFO ] [PacienteService:63] Busqueda exitosa de paciente
+[2022-04-23 11:40:56] [ INFO ] [TurnoService:50] Turno registrado exitosamente
+[2022-04-23 11:41:01] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 11:41:01] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 11:45:55] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 11:45:55] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 11:47:21] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 11:47:21] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 12:32:28] [ INFO ] [SecurityConfiguration:52] Ingreso de permisos y roles al sistema
+[2022-04-23 12:33:55] [ INFO ] [SecurityConfiguration:53] Ingreso de permisos y roles al sistema
+[2022-04-23 12:36:08] [ INFO ] [AppUserService:27] Usuario ingresado al sistema
+[2022-04-23 12:37:02] [ INFO ] [AppUserService:27] Usuario ingresado al sistema
+[2022-04-23 12:37:02] [ INFO ] [TurnoController:16] Se ingreso al sistema a traves del login
+[2022-04-23 12:37:28] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 12:37:28] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 12:37:59] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 12:37:59] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 12:38:43] [ INFO ] [SecurityConfiguration:53] Ingreso de permisos y roles al sistema
+[2022-04-23 12:39:11] [ INFO ] [AppUserService:27] Usuario ingresado al sistema
+[2022-04-23 12:39:11] [ INFO ] [TurnoController:16] Se ingreso al sistema a traves del login
+[2022-04-23 12:39:19] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 12:39:19] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 12:41:34] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 12:41:34] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 12:45:13] [ INFO ] [SecurityConfiguration:46] Ingreso de permisos y roles al sistema
+[2022-04-23 12:45:35] [ INFO ] [AppUserService:27] Usuario ingresado al sistema
+[2022-04-23 12:45:35] [ INFO ] [TurnoController:16] Se ingreso al sistema a traves del login
+[2022-04-23 12:45:49] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 12:45:49] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 12:45:58] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 12:45:58] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 12:46:58] [ INFO ] [TurnoController:16] Se ingreso al sistema a traves del login
+[2022-04-23 12:51:31] [ INFO ] [TurnoController:16] Se ingreso al sistema a traves del login
+[2022-04-23 12:52:47] [ INFO ] [SecurityConfiguration:47] Ingreso de permisos y roles al sistema
+[2022-04-23 12:53:07] [ INFO ] [AppUserService:27] Usuario ingresado al sistema
+[2022-04-23 12:53:07] [ INFO ] [TurnoController:16] Se ingreso al sistema a traves del login
+[2022-04-23 12:53:14] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 12:53:14] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 12:53:22] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 12:53:22] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 12:53:36] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 12:53:36] [ INFO ] [DomicilioService:43] Consulta de total de domicilios
+[2022-04-23 12:53:59] [ INFO ] [SecurityConfiguration:47] Ingreso de permisos y roles al sistema
+[2022-04-23 12:54:28] [ INFO ] [AppUserService:27] Usuario ingresado al sistema
+[2022-04-23 12:57:02] [ INFO ] [SecurityConfiguration:45] Ingreso de permisos y roles al sistema
+[2022-04-23 12:57:20] [ INFO ] [AppUserService:27] Usuario ingresado al sistema
+[2022-04-23 12:57:20] [ INFO ] [TurnoController:16] Se ingreso al sistema a traves del login
+[2022-04-23 12:57:27] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 12:57:27] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 12:57:35] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 12:57:35] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 12:57:59] [ INFO ] [SecurityConfiguration:45] Ingreso de permisos y roles al sistema
+[2022-04-23 12:58:40] [ INFO ] [AppUserService:27] Usuario ingresado al sistema
+[2022-04-23 12:59:10] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 12:59:10] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 12:59:51] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 12:59:51] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 13:01:58] [ INFO ] [SecurityConfiguration:45] Ingreso de permisos y roles al sistema
+[2022-04-23 13:02:21] [ INFO ] [AppUserService:27] Usuario ingresado al sistema
+[2022-04-23 13:02:30] [ INFO ] [TurnoController:32] Consulta endpoint listar turnos
+[2022-04-23 13:02:30] [ INFO ] [TurnoService:61] Consulta de todos los turnos
+[2022-04-23 13:05:00] [ INFO ] [SecurityConfiguration:42] Ingreso de permisos y roles al sistema
+[2022-04-23 13:05:19] [ INFO ] [AppUserService:27] Usuario ingresado al sistema
+[2022-04-23 13:05:19] [ INFO ] [TurnoController:16] Se ingreso al sistema a traves del login
+[2022-04-23 13:05:36] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 13:05:36] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 13:05:42] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 13:05:42] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 13:25:24] [ INFO ] [SecurityConfiguration:42] Ingreso de permisos y roles al sistema
+[2022-04-23 13:25:53] [ INFO ] [AppUserService:27] Usuario ingresado al sistema
+[2022-04-23 13:25:53] [ INFO ] [TurnoController:16] Se ingreso al sistema a traves del login
+[2022-04-23 13:26:03] [ INFO ] [OdontologoController:28] Consulta enpoint listar odontologos
+[2022-04-23 13:26:03] [ INFO ] [OdontologoService:38] Consulta total de odontologos
+[2022-04-23 13:26:15] [ INFO ] [DomicilioController:30] Consulta endpoint listar domicilios
+[2022-04-23 13:26:15] [ INFO ] [DomicilioService:43] Consulta de total de domicilios

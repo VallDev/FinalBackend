@@ -1,0 +1,23 @@
+------Proyecto integrador Final Backend 1-------------
+------Estudiante: Andrés Vallejo-------
+Para acceder al sistema como Admin:
+	Usuario: correoAndres@gmail.com
+	Contraseña: digital2
+	Admin posee permisos para acceder a todos los links, pestañas y endpoints
+Para acceder al sistema como User:
+	Usuario:rodolfo@gmail.com
+	Contraseña: digital
+	User solo pude accerder al link, pestaña o endpoint de /turnos y /turnosLista.html
+	El resto de pantallas le aparecerá totalmente en blanco. Una vez User digite sus
+	credenciales, se pondrá una pantalla en blanco y podra acceder a los servicios a través
+	de la url.
+Para acceder a la base de datos es necesario primero iniciar sesión. Después hay que agregar /h2 en
+el espacio correspondiente del navegador.
+	En JDBC URL:    jdbc:h2:mem:AndresVallejo
+	User Name:      sa
+	Password:       sa
+Para personalizar propiedades de log4j habría que ingresar al archivo log4j.properties en la carpeta
+templates.
+Para poder observar los registros de log4j ingresar al archivo registros.log dentro de la carpeta inicial
+o principal.
+El sistema consta de 4 enpoints y 4 vistas correspondientes.
